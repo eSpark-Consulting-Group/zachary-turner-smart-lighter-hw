@@ -1,0 +1,17 @@
+Board Information Report
+Filename     : S:\zacharyturner-smartlighter-hw\Design-Files\Smart-Lighter-Main-PCB-v1.1\Main-PCB-v1.1.PcbDoc
+Date         : 2/6/2025
+Time         : 6:00:53 PM
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 58.93%
+    Connections, 168
+    Connections routed, 99
+    Connections remaining, 69
+count : 4
+
+Net Track Width, Count
+    8mils, 49
+    10mils, 2
+count : 2
