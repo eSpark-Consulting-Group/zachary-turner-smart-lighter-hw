@@ -82,6 +82,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BDTHAVTP
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Secondary-PCB-v1.1\Design Rule Check - Secondary-PCB-v1.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
